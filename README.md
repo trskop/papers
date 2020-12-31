@@ -1,1 +1,1 @@
-Repository of academic papers.
+Repository of academic and other papers.
